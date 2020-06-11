@@ -12,3 +12,9 @@
 *This text* is italic
 
 _This text_ is italic
+
+<!-- Strong -->
+
+**This text** is italic
+
+__This text__ is italic
