@@ -55,3 +55,7 @@ _________________________
 <!-- Inline Code Block -->
 
 `<p>This is a paragraph </p>`
+
+<!-- Images -->
+
+![Markdown Logo](https://camo.githubusercontent.com/d433b1e2506e5865d19ed62a28950463335cdaa9/68747470733a2f2f6d61726b646f776e2d686572652e636f6d2f696d672f69636f6e3235362e706e67)
