@@ -74,3 +74,12 @@ _________________________
 		return num1 + num2;
 	}
 ```
+```python
+	def add(num1, num2):
+		return num1 + num2;
+```
+<!-- Tables -->
+| Name | Email |
+|------|-------|
+| John Doe | john@gmail.com |
+| Jane Doe | jane@gmail.com |
