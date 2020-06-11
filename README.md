@@ -18,3 +18,8 @@ _This text_ is italic
 **This text** is italic
 
 __This text__ is italic
+
+<!-- Strikethrough -->
+
+~~This text~~ is strikethrough
+
