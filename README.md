@@ -15,11 +15,16 @@ _This text_ is italic
 
 <!-- Strong -->
 
-**This text** is italic
+**This text** is strong
 
-__This text__ is italic
+__This text__ is strong
 
 <!-- Strikethrough -->
 
 ~~This text~~ is strikethrough
+
+<!-- Horizontal Rule -->
+
+-------------------------
+_________________________
 
