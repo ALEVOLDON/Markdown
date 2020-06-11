@@ -13,6 +13,8 @@
 
 _This text_ is italic
 
+_This text_ is italic
+
 <!-- Strong -->
 
 **This text** is strong
@@ -35,3 +37,11 @@ _________________________
 <!-- Links -->
 
 [GATEWAY](http://www.gtwy.com)
+
+<!-- UL -->
+
+*Item 1
+*Item 2
+*Item 3
+	*Nested Item 1
+	*Nested Item 2
