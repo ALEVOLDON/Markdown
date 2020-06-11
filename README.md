@@ -6,3 +6,9 @@
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
+
+<!-- Italics -->
+
+*This text* is italic
+
+_This text_ is italic
